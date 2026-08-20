@@ -1,5 +1,5 @@
 # PortSwigger-writeups
-<a href="">Sql Injection<a/>
+<a href="./PortSwigger_SQLi_Short_Reports.pdf">Sql Injection<a/>
 <br/>
 <a href="">Cross Site Scripting<a/>
 <br/>
